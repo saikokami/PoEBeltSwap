@@ -1,4 +1,4 @@
-#Imports
+#imports
 import pyautogui
 import keyboard
 import winsound
